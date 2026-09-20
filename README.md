@@ -1,2 +1,2 @@
 # TUNA
-otherwise known as the "Tornado Updraft and Near-storm Atmosphere model" Is a custom model I made myself based on current reaserch for how tornadogenisis works and the scientific models being used to figure that out.
+otherwise known as the "Tornado Updraft and Near-storm Atmosphere model" Is a custom model I made myself based on current reaserch for how tornadogenisis works and the scientific models being used to figure that out. the model is based off current reaserch and runs locally on the gpu using a hybrid model of a non-local pressure model and a local cellular-automata like transport model which updates velocity and transports various physical quantaties throughout a 3d field. More detail is in the python file.
